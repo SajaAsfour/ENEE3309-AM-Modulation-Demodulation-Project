@@ -17,5 +17,9 @@ This repository contains my implementation of **Amplitude Modulation (AM) and De
 - 🎓 Computer Engineering Student at Birzeit University
 - 🏠 GitHub: [SajaAsfour](https://github.com/SajaAsfour)
 
+**Yara Khattab**
+- 🎓 Computer Engineering Student at Birzeit University
+- 🏠 GitHub: [yaraKhattab](https://github.com/yarakhattab)
+
 ## 📜 License
 This repository is for educational purposes. Feel free to use and reference the work, but please give proper credit. 😊
